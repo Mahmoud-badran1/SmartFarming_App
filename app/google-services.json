@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "621621351930",
+    "firebase_url": "https://smartfarm-1be5a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartfarm-1be5a",
+    "storage_bucket": "smartfarm-1be5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621621351930:android:51498a24a147e3455ac043",
+        "android_client_info": {
+          "package_name": "com.example.greenpath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621621351930-20tqsi5iquefic91m4tgh49dnmdlse05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJWwDSF3pO3I__tpzrJ04IgIzIEoQfos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621621351930-20tqsi5iquefic91m4tgh49dnmdlse05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621621351930:android:9ea88797aa2f38c25ac043",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621621351930-20tqsi5iquefic91m4tgh49dnmdlse05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJWwDSF3pO3I__tpzrJ04IgIzIEoQfos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621621351930-20tqsi5iquefic91m4tgh49dnmdlse05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621621351930:android:8c75e746eadfa5515ac043",
+        "android_client_info": {
+          "package_name": "com.example.smartFarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621621351930-20tqsi5iquefic91m4tgh49dnmdlse05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJWwDSF3pO3I__tpzrJ04IgIzIEoQfos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621621351930-20tqsi5iquefic91m4tgh49dnmdlse05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
